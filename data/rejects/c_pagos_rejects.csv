@@ -1,0 +1,18 @@
+id_pago,id_venta,metodo,monto_pagado,motivo_rechazo
+PG8029,,Cheque,2303.44,id_venta_vacio
+PG8038,,Efectivo,4920.39,id_venta_vacio
+PG8039,V9175,Cheque,,monto_nulo_o_formato_invalido
+PG8042,,Tarjeta,1939.85,id_venta_vacio
+PG8052,,Pago Móvil,1311.49,id_venta_vacio
+PG8055,V9113,Efectivo,,monto_nulo_o_formato_invalido
+PG8106,V9132,Cheque,,monto_nulo_o_formato_invalido
+PG8116,V9210,Tarjeta,,monto_nulo_o_formato_invalido
+PG8120,V9138,Tarjeta,,monto_nulo_o_formato_invalido
+PG8133,,Transferencia,4788.09,id_venta_vacio
+PG8155,V9149,Pago Móvil,,monto_nulo_o_formato_invalido
+PG8170,V9226,Efectivo,,monto_nulo_o_formato_invalido
+PG8179,V9000,Tarjeta,,monto_nulo_o_formato_invalido
+PG8183,,Tarjeta,3025.4,id_venta_vacio
+PG8195,V9116,Transferencia,,monto_nulo_o_formato_invalido
+PG8205,V9076,Pago Móvil,,monto_nulo_o_formato_invalido
+PG8218,,Pago Móvil,1249.18,id_venta_vacio

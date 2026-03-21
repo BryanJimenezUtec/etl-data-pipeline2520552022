@@ -1,0 +1,19 @@
+id_cliente,cliente,correo,ciudad,correo_valido,motivo_rechazo
+CL115,Almacenes Prado 15,correo_invalido,San Salvador,False,formato_correo_invalido
+CL118,Distribuciones Luna 18,cliente1882correo.sv,La Libertad,False,formato_correo_invalido
+CL136,Soluciones Cr 36,correo_invalido,La Libertad,False,formato_correo_invalido
+CL140,Importadora Del Valle 40,cliente4088correo.sv,San Salvador,False,formato_correo_invalido
+CL152,Grupo Ideal 52,correo_invalido,San Salvador,False,formato_correo_invalido
+CL162,Soluciones Cr 62,cliente6211correo.sv,San Miguel,False,formato_correo_invalido
+CL176,Distribuciones Luna 76,,Santa Ana,False,correo_vacio
+CL180,Servicios Alfa 80,correo_invalido,Santa Ana,False,formato_correo_invalido
+CL181,Comercial Díaz 81,cliente819outlook.com,Santa Ana,False,formato_correo_invalido
+CL187,Empresa Nova 87,correo_invalido,La Libertad,False,formato_correo_invalido
+CL188,Importadora Del Valle 88,cliente8857gmail.com,San Salvador,False,formato_correo_invalido
+CL202,Tienda Central 102,,La Libertad,False,correo_vacio
+CL203,Distribuciones Luna 103,,Santa Ana,False,correo_vacio
+CL206,Distribuciones Luna 106,cliente10686empresa.com,La Libertad,False,formato_correo_invalido
+CL212,Tienda Central 112,correo_invalido,La Libertad,False,formato_correo_invalido
+CL216,Distribuciones Luna 116,correo_invalido,La Libertad,False,formato_correo_invalido
+CL218,Soluciones Cr 118,cliente1189empresa.com,Santa Ana,False,formato_correo_invalido
+CL223,Tienda Central 123,correo_invalido,San Miguel,False,formato_correo_invalido
